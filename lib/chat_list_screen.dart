@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'chat_list.dart';
 
 class ChatListScreen extends StatefulWidget {
+
   @override
   _ChatListScreenState createState() => _ChatListScreenState();
 }
@@ -79,7 +80,7 @@ class _ChatListScreenState extends State<ChatListScreen>
               children: [
                 ChatList(),
                 ChatList(),
-                ChatList(),
+                ChatList()
               ],
             ),
           )

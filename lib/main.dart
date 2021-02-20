@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_whatsapp_clone/splash_screen.dart';
 
-import 'chat_list_screen.dart';
-
 void main() {
   runApp(App());
 }
